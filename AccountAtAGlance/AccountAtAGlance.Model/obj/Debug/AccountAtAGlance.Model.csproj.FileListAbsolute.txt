@@ -1,0 +1,5 @@
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.csprojResolveAssemblyReference.cache
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
